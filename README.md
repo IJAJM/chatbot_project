@@ -1,7 +1,3 @@
-Berikut contoh isi `README.md` yang bisa digunakan untuk proyek chatbot kamu:  
-
----
-
 # **Chatbot AI Sederhana dengan PHP, JavaScript, dan PHP-ML**  
 
 ## **Deskripsi Proyek**  
