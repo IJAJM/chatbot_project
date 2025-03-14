@@ -21,7 +21,6 @@ Proyek ini adalah chatbot sederhana berbasis web yang dibuat dengan **PHP**, **J
 - **CSS (Tailwind / Custom CSS)** → Untuk tampilan yang menarik  
 
 ---
-**file lain di files.zip**
 
 ## **Struktur Proyek**  
 ```
@@ -48,7 +47,7 @@ git clone https://github.com/ijajkeyboard/chatbot.git
 cd chatbot
 ```
 
-### **2. Instal Dependensi PHP dengan Composer
+### **2. Instal Dependensi PHP dengan Composer**
 Pastikan kamu sudah menginstal **Composer** terlebih dahulu. Jika belum, download [di sini](https://getcomposer.org/).  
 Kemudian jalankan perintah:  
 ```sh
@@ -64,7 +63,7 @@ Buka browser dan akses `http://localhost:8000/`.
 
 ---
 
-## **Cara Menggunakan
+## **Cara Menggunakan**
 1. Buka halaman web chatbot.  
 2. Ketik pertanyaan di kolom input.  
 3. Chatbot akan merespons secara otomatis berdasarkan model AI sederhana.  
@@ -72,14 +71,14 @@ Buka browser dan akses `http://localhost:8000/`.
 
 ---
 
-## **Pengembangan Lebih Lanjut
+## **Pengembangan Lebih Lanjut**
 💡 **Tambahkan fitur AI lebih canggih:** Bisa menggunakan **TensorFlow-PHP** atau API NLP lainnya.  
 💡 **Simpan percakapan ke database:** Gunakan **MySQL** atau **MongoDB**.  
 💡 **Tambahkan dukungan suara:** Gunakan **Web Speech API** untuk interaksi lebih interaktif.  
 
 ---
 
-## **Lisensi
+## **Lisensi**
 Proyek ini menggunakan lisensi **MIT**, bebas digunakan dan dikembangkan lebih lanjut.  
 
 ---
